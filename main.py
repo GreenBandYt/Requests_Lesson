@@ -2,7 +2,7 @@ import requests
 import pprint
 
 params = {
-    "q": "python"
+    "q": "html"
 }
 
 url = "https://api.github.com/search/repositories"
